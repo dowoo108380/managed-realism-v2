@@ -1,0 +1,7 @@
+{
+  "profile_name": "eval",
+  "max_duration_sec": 90,
+  "capture_enabled": false,
+  "max_decisions": null,
+  "notes": "default evaluation profile"
+}

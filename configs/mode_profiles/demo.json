@@ -1,0 +1,7 @@
+{
+  "profile_name": "demo",
+  "max_duration_sec": 120,
+  "capture_enabled": true,
+  "max_decisions": null,
+  "notes": "default demo profile"
+}

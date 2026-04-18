@@ -1,0 +1,24 @@
+{
+  "schema_version": "v0.1",
+  "reward_stage": "R0",
+  "preset_name": "balanced",
+  "outcome": {
+    "win": 1.0,
+    "loss": -1.0,
+    "draw": 0.0
+  },
+  "terms": {
+    "damage": 0.2,
+    "kill": 0.0,
+    "survival": 0.0,
+    "self_damage": -0.2,
+    "friendly_fire": 0.0,
+    "line_of_fire": 0.0
+  },
+  "metrics": {
+    "save_time_to_first_shot": true,
+    "save_mean_shot_interval": true,
+    "save_path_length": true
+  },
+  "notes": "R0 starter config: outcome + damage + self-damage only"
+}

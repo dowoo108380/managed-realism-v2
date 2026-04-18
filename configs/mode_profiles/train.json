@@ -1,0 +1,7 @@
+{
+  "profile_name": "train",
+  "max_duration_sec": 60,
+  "capture_enabled": false,
+  "max_decisions": null,
+  "notes": "default training profile"
+}

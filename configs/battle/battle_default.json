@@ -1,0 +1,35 @@
+{
+  "schema_version": "v0.1",
+  "movement": {
+    "max_speed": 4.0,
+    "acceleration": 12.0,
+    "deceleration": 16.0,
+    "stop_epsilon": 0.05
+  },
+  "aim": {
+    "turn_rate_deg_per_sec": 360.0,
+    "keep_target_rule": "keep_current_target_until_invalid",
+    "lose_target_rule": "set_none"
+  },
+  "weapon": {
+    "windup_sec": 0.18,
+    "recovery_sec": 0.35,
+    "projectile_speed": 20.0,
+    "projectile_lifetime": 2.0,
+    "spread_deg": 0.0
+  },
+  "combat": {
+    "friendly_fire_enabled": true,
+    "team_size": 2
+  },
+  "map": {
+    "allow_limited_random_layout": true,
+    "seed_strategy": "runtime_seed"
+  },
+  "logging": {
+    "save_battle_results": true,
+    "save_summary": true,
+    "save_diagnostic_mechanics": true
+  },
+  "notes": "starter defaults for Managed Realism v2"
+}
