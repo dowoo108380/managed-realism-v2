@@ -4,6 +4,7 @@
 - Primary OS: Windows
 - Preferred shell: PowerShell 7
 - Unity project root is repository root
+- Unity Editor version: 6000.3.13f1
 
 ## Project rules
 - Keep train/eval/demo profiles separated.
@@ -16,4 +17,6 @@
 - artifacts/, configs/, runs/, models/, batches/, reports/, docs/
 
 ## Near-term goal
-- Finish BL-001, BL-002, BL-003 before RL training work.
+- Start BL-101 fixed battlefield skeleton.
+- After BL-101 phase A/B, implement BL-102 BattleClock.
+- Then return to BL-004 manifest/id flow.

@@ -34,8 +34,12 @@
 ## 6. 핵심 추적 체계
 config_id -> run_id -> model_id -> batch_id -> battle_id
 
-## 7. 현재 첫 목표
-PH-0 / BL-001~003 완료
+## 7. 현재 진행 상태
+- 완료: BL-001, BL-002, BL-003
+- 다음 작업: BL-101 고정 전장 스켈레톤
+- 이어서 할 작업: BL-102 BattleClock, BL-004 ManifestWriter
 
-## Unity version
-- Unity 6.3 LTS
+## 8. 개발 환경
+- Unity Editor: 6000.3.13f1
+- OS: Windows
+- 기본 셸: PowerShell 7
