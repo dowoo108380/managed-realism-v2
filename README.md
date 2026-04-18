@@ -36,3 +36,6 @@ config_id -> run_id -> model_id -> batch_id -> battle_id
 
 ## 7. 현재 첫 목표
 PH-0 / BL-001~003 완료
+
+## Unity version
+- Unity 6.3 LTS
